@@ -6,7 +6,7 @@ To use this in your project:
 
 Golang:
 ```
-go get github.com/kurtosis-tech/kurtosis-engine-sdk/golang
+go get github.com/kurtosis-tech/kurtosis-engine-sdk/api/golang
 ```
 
 Typescript:
